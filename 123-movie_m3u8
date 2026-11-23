@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="The Hunger Games Sunrise on the Reaping (2026)" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/The-Hunger-Games-Sunrise-on-the-Reaping-2026-300x450.png" group-title="หนังใหม่2026" tvg-year="2026" tvg-language="พากย์ไทย",
+https://main.24playerhd.com/newplaylist/caf52317b84eca03735619eb/caf52317b84eca03735619eb.m3u8
+
+#EXTINF:-1 tvg-name="On Behalf of My Son (2026) คำขอโทษของแม่" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/On-Behalf-of-My-Son-2026-คำขอโทษของแม่-300x450.png" group-title="หนังใหม่2026" tvg-year="2026" tvg-language="ซับไทย",
+https://main.24playerhd.com/newplaylist/724389735fdf39813c6b7336/724389735fdf39813c6b7336.m3u8
+
+#EXTINF:-1 tvg-name="Always Lalisa (2026)" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/Always-Lalisa-2026-300x450.png" group-title="หนังใหม่2026" tvg-year="2026" tvg-language="ซับไทย",
+https://main.24playerhd.com/newplaylist/bc9728af23de57cf20251829/bc9728af23de57cf20251829.m3u8
+
+#EXTINF:-1 tvg-name="The Fountain (2006) เดอะ ฟาวเทน อมตะรักชั่วนิรันดร์" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2022/11/The-Fountain-2006-เดอะ-ฟาวเทน-อมตะรักชั่วนิรันดร์-300x450.png" group-title="หนังใหม่2026" tvg-year="2026" tvg-language="ซับไทย",
+https://main.24playerhd.com/newplaylist/ea8a133485b0bfaea3cb77a6/ea8a133485b0bfaea3cb77a6.m3u8
 
 #EXTINF:-1 tvg-name="Steps (2026) พี่น้องรองเท้าแก้ว" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/Steps-2026-พี่น้องรองเท้าแก้ว-300x450.png" group-title="หนังใหม่2026" tvg-year="2026" tvg-language="พากย์ไทย",
 https://main.24playerhd.com/newplaylist/1a2d29099942bbcd2456e542/1a2d29099942bbcd2456e542.m3u8
